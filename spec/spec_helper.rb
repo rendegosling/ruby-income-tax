@@ -1,0 +1,5 @@
+require 'employee'
+require 'tax_table'
+require 'monthly_pay_slip'
+require 'console_presenter'
+require 'byebug'
